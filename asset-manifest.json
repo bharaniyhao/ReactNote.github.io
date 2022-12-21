@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactNote.github.io/static/css/main.39068fa6.css",
+    "main.js": "/ReactNote.github.io/static/js/main.68e3611c.js",
+    "index.html": "/ReactNote.github.io/index.html",
+    "main.39068fa6.css.map": "/ReactNote.github.io/static/css/main.39068fa6.css.map",
+    "main.68e3611c.js.map": "/ReactNote.github.io/static/js/main.68e3611c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39068fa6.css",
+    "static/js/main.68e3611c.js"
+  ]
+}
